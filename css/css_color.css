@@ -1,0 +1,637 @@
+/* 
+color 
+--------------------------------------------------
+PROFIT
+--------------------------------------------------
+goldfischclub.de
+2016 - 11 - 10 - responsive
+*/
+
+
+
+body, a, .sidr select {
+	color: #475966;
+}
+
+.footer-row-1 {
+	background-color: #45525e;
+}
+.footer-row-2 {
+	background-color: #3a4854;
+}
+
+.footer-v-2 .footer-row {
+	background-color: #3a4854;
+}
+.footer-v-2 .footer-row + .footer-row .container-wrap {
+	border-top: 1px solid #b4babe;
+}
+
+.suche-trigger {
+	background-color: #567047;
+	background-image: url(/css/assets/suche.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.search {
+	background-color: #567047;
+}
+
+#right-menu{
+	background-color: #9bc71c;
+}
+
+.footer .lvl-1 a,
+.footer-row-2 .arteficium a  {
+	color: #b4babe;
+}
+
+.teaser-2col-txt-img,
+.teaser-2col-txt-img a,
+.footer-v-2 .footer-row,
+.download-hinweis a.login-hinweis,
+.lottoverband .subheadline .container-wrap,
+.lottoverband .container-wrap a,
+.footer-row-2,
+.footer-row-2 a,
+.footer .lvl-2 a,
+.grid p {
+	color: #fff;
+}
+
+
+
+
+.myprofit .close,
+.sidr .close {
+	background-image: url(/css/assets/close.png);
+	background-repeat: no-repeat;
+}
+
+.download-hinweis {
+	background-image: url(/css/assets/hinweis-close-fff.png);
+	background-repeat: no-repeat;
+	background-position: 99% center;
+}
+
+.hotnews .download-hinweis {
+	background-image: none;
+}
+
+@media handheld, only screen and (max-width: 700px) {
+	.download-hinweis {
+		background-image: none;
+	}
+}
+
+
+
+
+.c-grau,
+.teaser-bild100,
+.news,
+.tabellen-select,
+.baustein-select,
+.baustein-select-bekundung {
+	background-color: #eef0f1;
+}
+
+.tabellen-select li.month {
+	background-color: #dbdbdb;
+}
+
+
+
+
+.lottoverband .txt .container-wrap,
+.baustein .subheadline,
+.c-gruen,
+.download-hinweis {
+	color: #fff;
+	background-color: #9bc71c;
+}
+
+.hotnews .download-hinweis {
+	background-color: transparent;
+}
+
+
+/* gruen */
+
+h1,
+.meinprofil h2,
+.teaser-bild100-header h2,
+.teaser-2col-txt-img .c-1 a,
+.news h3,
+.news a,
+.mod,
+.footer-v-2 .c-1 .lvl-1 a,
+.footer-v-2 .c-1 .lvl-1 p,
+.footer-row-newsletter .c-1 span,
+p.hinweis,
+p.freibleibend,
+.login-box span,
+.register-box span,
+.link a,
+.moderation,
+.gruen,
+.feature .c-2 h4,
+.txt-cols2 .c-2 a,
+.headline .c-2 a,
+.paginate-baustein a,
+.baustein-back .c-2 a,
+.back a,
+ul li.aktiv a,
+ul li.aktiv ul li.aktiv a,
+.baustein-select .active a,
+.baustein-select .active,
+.baustein-select-bekundung .active a,
+.baustein-select-bekundung .active,
+.baustein-select h2,
+.txt-cols2 .c-2 a,
+.feature span.freibleibend {
+	color: #9bc71c;
+}
+
+
+/* weiss */
+.user,
+.user a,
+.c-gruen h1,
+.visual h1,
+.visual .swiper-container h3,
+.visual .swiper-container h2 {
+	color: #fff;
+}
+
+.sidr .nav-footer,
+.sidr .nav-footer a {
+	color: #475966;
+}
+
+
+/* weiss, grüner background */
+.teaser-bild100 .c-1,
+.teaser-2col-txt-img .content-wrap, 
+.news-header .content-wrap, 
+.h-t-1 h2,
+.h-t-3 h2,
+.box,
+.hotnews .container-wrap,
+.tab-navigation li {
+	color: #fff;
+	background-color: #9bc71c;
+}
+
+
+
+
+.tab-navigation li:hover {
+	background-color: #43642b;
+}
+
+
+
+.tab-navigation li a {
+	color: #fff;
+}
+
+
+/* rot */
+.txt-c-1 h2,
+.user a.meinprofil,
+.tab-navigation li.c-red-1 a  {
+	color: #e10f26;
+}
+
+
+.baustein-back h1 {
+	color: #475966;
+}
+
+
+
+.teaser-bild100 .c-2,
+.nav-body,
+.baustein .box,
+.login-box,
+.team .container-wrap,
+.box-fff .container-wrap,
+.lottoverband .c-1 .logo {
+	background-color: #fff;
+}
+
+
+
+
+.feature .container-wrap {
+	border-bottom: 2px solid #92c83e;
+}
+
+
+.visual,
+.no-wrap-bg,
+.lotteriekarte,
+.lottoverband {
+	background-image: url(/css/assets/visual_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+ 	-o-background-size: cover;
+  	background-size: cover;
+}
+
+@media handheld, only screen and (max-width: 700px) {
+	.visual {
+		background-position: center 0;
+		background-image: url(/files/smartscreen_500x750_background.jpg);
+	}
+}
+
+
+
+
+
+
+.no-wrap-bg {
+	background-image: url(/css/assets/visual_bg_300.jpg);
+}
+
+
+.button {
+	color: #fff;
+	background-image: url(/css/assets/btn.png);
+	background-repeat: no-repeat;
+	background-position: center 0;
+}
+
+.download {
+	color: #fff;
+	background-image: url(/css/assets/download.png);
+	background-repeat: no-repeat;
+	background-position: center 0;
+}
+.baustein .download {
+	background-position: left 0;
+}
+
+
+.hotnews .c-2 a {
+	color: #9bc71c;
+	background-image: url(/css/assets/btn-weiss.png);
+	background-repeat: no-repeat;
+	background-position: center 0;
+}
+
+.sidr input[type="submit"],
+.sidr input[type="submit"]:hover {
+	color: #fff;
+	background-image: url(/css/assets/submit.png);
+	background-repeat: no-repeat;
+	background-position: center 0;
+}
+
+
+.no-visual .header  {
+	background-image: url(/css/assets/novisual_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+ 	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.header-wrap {
+	background-image: url(/css/assets/grad-1.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+
+
+a.logo,
+.c-15 a.logo  {
+	background-image: url(/css/assets/logo_profit.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+@media handheld, only screen and (max-width: 700px) {
+
+	a.logo,
+	.c-15 a.logo  {
+		background-image: url(/css/assets/profit-mobile.png);
+		background-repeat: no-repeat;
+		background-position: 0 0;
+	}
+}
+
+
+.no-visual a.logo {
+	background-image: url(/css/assets/logo_profit_fff.png);
+}
+.a-42.no-visual  a.logo {
+	background-image: url(/css/assets/profit_akademie_logo.png);
+}
+
+
+
+.tab-navigation li a,
+.box-bild100-txt a.next-down,
+.box-bild100-txt-sub a.next-down {
+	background-image: url(/css/assets/pfeil-down.png);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
+
+/* tablet portrait */
+@media handheld, only screen and (max-width: 950px) {
+	.tab-navigation li a,
+	.box-bild100-txt a.next-down,
+	.box-bild100-txt-sub a.next-down {
+		background-position: 5px center;
+	}
+}
+.baustein .box-bild100-txt a.next-down {
+	background-image: url(/css/assets/pfeil-down-gruen.png);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
+
+
+.feature .c-1 li {
+	background-image: url(/css/assets/haken.png);
+	background-repeat: no-repeat;
+	background-position: 0 4px;
+}
+
+.link a,
+.paginate-baustein a {
+	background-image: url(/css/assets/link-1.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+
+.headline .c-2 a.pfeil,
+.txt-cols2 .c-2 a.pfeil {
+	color: #fff;
+	background-image: url(/css/assets/link-angebote-2.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+
+.txt a.url {
+	background-color: #dcdfe1;
+	padding: 3px 8px;
+	display: inline;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px
+}
+.highlightedtext {
+	padding-bottom: 4px;
+}
+
+
+.back a,
+.baustein-back .c-2 a {
+	background-image: url(/css/assets/link-back.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+
+.tabellen-select .container-wrap,
+.baustein-select-bekundung .container-wrap,
+.baustein-select .container-wrap {
+	background-color: #fff;
+}
+.baustein-select-bekundung span {
+	color: #b0b5bf;
+}
+
+.addCart,
+.cart .container-wrap {
+	background-color: #eef0f1;
+}
+
+
+/* phone portrait */
+@media handheld, only screen and (max-width: 700px) {
+	.header-wrap {
+		background-image: none;
+	}
+
+	.visual h1 {
+		/*text-shadow: 1px 1px 4px #253c38;*/
+	}
+    .visual h1 br { 
+    	display: none;
+    }
+    .h-t-1 .container-wrap {
+    	background-color: #9bc71c;
+    }
+
+}
+
+
+.visual .mobile-profit-logo {
+	background-image: url(/files/logo_smart.png);
+}
+
+
+
+/* startseite */
+.a-3 .visual .container-wrap,
+.a-59 .visual .container-wrap {
+	background-image: url(/files/visual_profit_kugeln_1.png);
+}
+/* inside */
+.a-9 .visual .container-wrap {
+	background-image: url(/files/visual_profit_pommes.png);
+}
+/* bausteine */
+.a-14 .visual .container-wrap {
+	background-image: url(/files/visual_profit_birnen.png);
+}
+/* service */
+.a-33 .visual .container-wrap {
+	background-image: url(/files/illu_service_head.png);
+}
+/* weiterbildung */
+.a-28 .visual .container-wrap {
+	background-image: url(/files/visual_profit_akademie.png);
+}
+/* kontakt */
+.a-7 .visual .container-wrap {
+	background-image: url(/files/illu_head_kontakt.png);
+}
+/* faq */
+.a-69 .visual .container-wrap {
+	background-image: url(/files/profit_visual_faq_desktop.png);
+}
+/* jobs */
+.a-60 .visual .container-wrap {
+	background-image: url(/files/profit_visual_jobs_desktop.png);
+}
+
+
+
+@media handheld, only screen and (max-width: 700px) and (orientation : landscape) {
+	.visual .container-wrap {
+		background-size: 60%;
+	}
+}
+
+
+/* phone portrait */
+@media handheld, only screen and (max-width: 700px) {
+	/* startseite */
+	.a-3 .visual .container-wrap,
+	.a-59 .visual .container-wrap {
+		background-image: url(/files/smartscreen_320_aktuell.png);
+	}
+	/* inside */
+	.a-9 .visual .container-wrap {
+		background-image: url(/files/smartscreen_320_inside.png);
+	}
+	/* bausteine */
+	.a-14 .visual .container-wrap {
+		background-image: url(/files/smartscreen_320_bausteine.png);
+	}
+	/* service */
+	.a-33 .visual .container-wrap {
+		background-image: url(/files/smartscreen_320_service.png);
+	}
+	/* weiterbildung */
+	.a-28 .visual .container-wrap {
+		background-image: url(/files/smartscreen_320_weiterbildung.png);
+	}
+	/* kontakt */
+	.a-7 .visual .container-wrap {
+		background-image: url(/files/smartscreen_320_kontakt.png);
+	}
+	/* faq */
+	.a-69 .visual .container-wrap {
+		background-image: url(/files/profit_faq_phone.png);
+	}
+	/* jobs */
+	.a-60 .visual .container-wrap {
+		background-image: url(/files/profit_jobs_phone.png);
+	}
+
+}
+
+
+
+.footer-row-social li.fb a {
+	background-image: url(/css/assets/ic_facebook_light@1x.png);
+}
+.footer-row-social li.tw a {
+	background-image: url(/css/assets/ic_twitter_light@1x.png);
+}
+.footer-row-social li.yt a {
+	background-image: url(/css/assets/ic_youtube_light@1x.png);
+}
+.footer-row-social li.xg a {
+	background-image: url(/css/assets/ic_xing_light@1x.png);
+}
+.footer-row-social li.ig a {
+	background-image: url(/css/assets/ic_instagram_light@1x.png);
+}
+.footer-row-social li.ln a {
+	background-image: url(/css/assets/ic_linkedin_light@1x.png);
+}
+
+.social-icons-embedded li.fb a,
+.social-nav li.fb a {
+	background-image: url(/css/assets/ic_facebook_dark@1x.png);
+}
+.social-icons-embedded li.tw a,
+.social-nav li.tw a {
+	background-image: url(/css/assets/ic_twitter_dark@1x.png);
+}
+.social-icons-embedded li.yt a,
+.social-nav li.yt a {
+	background-image: url(/css/assets/ic_youtube_dark@1x.png);
+}
+.social-icons-embedded li.xg a,
+.social-nav li.xg a {
+	background-image: url(/css/assets/ic_xing_dark@1x.png);
+}
+.social-icons-embedded li.ig a,
+.social-nav li.ig a {
+	background-image: url(/css/assets/ic_instagram_dark@1x.png);
+}
+.social-icons-embedded li.ln a,
+.social-nav li.ln a {
+	background-image: url(/css/assets/ic_linkedin_dark@1x.png);
+}
+
+
+
+
+
+
+
+/* RETINA */
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 144dpi) {
+
+	.js_enabled #cookie-message .close-cookie {
+		background-image: url(/css/assets/cookie-close@2x.png);
+		background-size: 27px 27px;
+	}
+	
+	.social-nav li a,
+	.footer-row-social li a {
+		background-size: 32px 32px;
+	}
+	
+	.footer-row-social li.fb a {
+		background-image: url(/css/assets/ic_facebook_light@2x.png);
+	}
+	.footer-row-social li.tw a {
+		background-image: url(/css/assets/ic_twitter_light@2x.png);
+	}
+	.footer-row-social li.yt a {
+		background-image: url(/css/assets/ic_youtube_light@2x.png);
+		background-size: 77px 32px;
+	}
+	.footer-row-social li.xg a {
+		background-image: url(/css/assets/ic_xing_light@2x.png);
+	}
+	.footer-row-social li.ig a {
+		background-image: url(/css/assets/ic_instagram_light@2x.png);
+	}
+	.footer-row-social li.ln a {
+		background-image: url(/css/assets/ic_linkedin_light@2x.png);
+	}
+	
+	.social-icons-embedded li.fb a,
+	.social-nav li.fb a {
+		background-image: url(/css/assets/ic_facebook_dark@2x.png);
+	}
+	.social-icons-embedded li.tw a,
+	.social-nav li.tw a {
+		background-image: url(/css/assets/ic_twitter_darkt@2x.png);
+	}
+	.social-icons-embedded li.yt a,
+	.social-nav li.yt a {
+		background-image: url(/css/assets/ic_youtube_dark@2x.png);
+		background-size: 77px 32px;
+	}
+	.social-icons-embedded li.xg a,
+	.social-nav li.xg a {
+		background-image: url(/css/assets/ic_xing_dark@2x.png);
+	}
+	.social-icons-embedded li.ig a,
+	.social-nav li.ig a {
+		background-image: url(/css/assets/ic_instagram_dark@2x.png);
+	}
+	.social-icons-embedded li.ln a,
+	.social-nav li.ln a {
+		background-image: url(/css/assets/ic_linkedin_dark@2x.png);
+	}
+
+
+}

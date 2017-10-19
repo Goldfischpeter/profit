@@ -1,0 +1,368 @@
+/*  
+font 
+--------------------------------------------------
+PROFIT
+--------------------------------------------------
+goldfischclub.de
+2016 - 10 - 17 - responsive
+*/
+
+
+body,
+.tabellen-select h2,
+.sidr li a,
+.hotnews h5 {
+	font-family: AmsiProNarw-Light, 'Arial', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+.cta a,
+.teaser-bild100 .col .col-wrap ,
+.tabellen-select li.month,
+.search input,
+.user,
+.user a,
+.txt-b p,
+.bildbox p,
+.intro,
+a.logout,
+#right-menu,
+#right-menu-tab,
+#right-login,
+.tab-navigation li a,
+.sidr .login-box span,
+.sidr .register-box span,
+.grid p {
+	font-family: 'Fjalla One', sans-serif;
+	font-weight: normal;
+}
+
+
+
+.visual .swiper-container h2 {
+	font-size: 380%;
+	line-height: 1.2em;
+}
+.visual .swiper-container h3 {
+	font-size: 140%;
+	line-height: 1.5em;
+	letter-spacing: 0.03em;
+}
+
+h1 {
+	font-size: 265%;
+	line-height: 1.2em;
+}
+.baustein-back h1,
+.c-15 .baustein-back h2,
+.a-25 .baustein-back h2 {
+	font-size: 200%;
+}
+
+
+.visual h1 {
+	font-size: 182%;
+	line-height: 1.5em;
+	letter-spacing: 0.03em;
+}
+
+h1.h1-l {
+	font-size: 230%;
+	letter-spacing: 0.04em;
+}
+
+.h-t-1 h2,
+.h-t-3 h2 {
+	font-size: 120%;
+	line-height: 1.5em;
+}
+.h-t-2 h2 {
+	font-size: 150%;
+	line-height: 1.4em;
+	letter-spacing: 0.05em;
+}
+
+.tabellen-select h2 {
+	font-size: 130%;
+	line-height: 1.5em;
+}
+
+.teaser-2col-txt-img .c-1 h2,
+.lottoverband .subheadline {
+	font-size: 150%;
+	line-height: 1.4em;
+	letter-spacing: 0.05em;
+}
+
+.meinprofil h2 {
+	font-size: 150%;
+	line-height: 1.4em;
+}
+.profil-addon h3 {
+	font-size: 130%;
+	line-height: 1.4em;
+}
+
+.baustein-back h2 {
+	font-size: 130%;
+	letter-spacing: 0.1em;
+	line-height: 1.4em;
+}
+
+p.freibleibend {
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 120%;
+	line-height: 1.4em;
+}
+
+.box-txt-bild .box h3 {
+	font-size: 270%;
+	line-height: 1.2em;
+}
+.box-txt-bild .box p {
+	font-size: 210%;
+	line-height: 1.25em;
+	letter-spacing: 1px;
+}
+.box-bild100-txt .box h3,
+.box-bild100-txt-sub .box h3 {
+	font-size: 140%;
+	line-height: 1.2em;
+}
+.box-bild100-txt .box h5,
+.box-bild100-txt-sub .box h5 {
+	font-size: 90%;
+	line-height: 1.2em;
+}
+
+.teaser-2col-txt-img .c-1 p {
+	font-size: 110%;
+	line-height: 1.4em;
+	letter-spacing: 1px;
+}
+.box-bild100-txt .box p,
+.box-bild100-txt-sub .box p {
+	font-size: 120%;
+	line-height: 1.5em;
+	letter-spacing: 1px;
+}
+
+.tabellen-select span,
+.baustein-select-bekundung span,
+.baustein-select span,
+.baustein-select h2 {
+	font-size: 170%;
+	letter-spacing: 0.1em;
+}
+
+.baustein-select h2 {
+	letter-spacing: 0em;
+}
+
+.tabellen-select .c-1,
+.baustein-select .c-1 a,
+.baustein-select-bekundung .c-1 a {
+	font-weight: bold;
+}
+.tabellen-select .c-1,
+.tabellen-select .c-2 {
+	line-height: 1.5em;
+}
+.moderation {
+	font-size: 90%;
+}
+
+.sidr .nav-footer p,
+.sidr .nav-footer p a {
+	font-size: 13px;
+	line-height: 1.3em;
+}
+
+.hotnews p {
+	line-height: 1.3em;
+}
+
+
+.mandatory {
+	font-size: 11px;
+}
+.user,
+.user a {
+	font-size: 15px;
+	line-height: 1.4em;
+}
+
+.cart span.checkbox-label  {
+	font-size: 15px;
+	line-height: 1.4em;
+}
+
+.footer .lvl-1 a {
+	font-size: 15px;
+}
+.footer .lvl-2 a,
+.footer-row-2,
+.footer .c-1 p,
+.footer-row-2 a,
+.footer ul.form_warning li {
+	font-size: 13px;
+}
+.footer-row-2,
+.footer-row-2 a,
+.footer .c-1 p {
+	line-height: 1.4em;
+}
+
+
+
+.footer-row-2 .telefon_footer a {
+	font-size: 300%;
+	font-family: AmsiProNarw-Thin, 'Arial', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+.tabellen-select li.month {
+	font-size: 120%;
+}
+
+
+.search input {
+	font-size: 16px;
+}
+
+.txt p,
+.txt li,
+.txt li ul li,
+.feature li,
+.cart li,
+.tab-navigation li a {
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+
+.lottoverband .container-wrap {
+	line-height: 1.4em;
+}
+
+
+/* tablet portrait */
+@media handheld, only screen and (max-width: 950px) {
+
+}
+
+.acc h3 {
+	line-height: 1.4em;
+}
+
+.baustein .txt p {
+	line-height: 1.6em;
+}
+.feature p {
+	line-height: 1.6em;
+}
+
+.team .c-2 {
+	font-size: 105%;
+	line-height: 1.3em;
+}
+.team .c-2 span {
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.txt-b p {
+	font-size: 130%;
+	line-height: 1.5em;
+	letter-spacing: 0.06em;
+}
+
+.active {
+	font-weight: bold;
+}
+
+.lotteriekarte .grid p {
+	font-size: 18px;	
+	line-height: 1.5em;
+}
+
+.tab-navigation li a {
+	font-size: 17px;
+	letter-spacing: 0.03em;
+}
+
+.txt-cols2 .c-2 p.hinweis {
+	font-family: AmsiProNarw-Light, 'Arial', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 100%;
+	line-height: 1.5em;
+	letter-spacing: 0em;
+}
+
+/* tablet portrait */
+@media handheld, only screen and (max-width: 950px) {
+	.tab-navigation li a {
+		font-size: 14px;
+	}
+}
+
+/* phone portrait */
+@media handheld, only screen and (max-width: 700px) {
+	.visual h1 {
+		font-size: 110%;
+	}
+	h1,
+	h1.h1-l {
+		font-size:125%;
+	}
+	.footer-row-2 .telefon_footer a {
+		font-size: 200%;
+	}
+	.tabellen-select span,
+	.baustein-select-bekundung span,
+	.baustein-select span {
+		font-size: 100%;
+	}
+	.box-bild100-txt .box h3,
+	.box-bild100-txt-sub .box h3 {
+		font-size: 110%;
+	}
+	.box-bild100-txt .box p,
+	.box-bild100-txt-sub .box p {
+		font-size: 100%;
+	}
+	.txt-b p {
+		font-size: 100%;
+	}
+	.box-txt-bild .box h3 {
+		font-size: 200%;
+	}
+	.box-txt-bild .box p {
+		font-size: 130%;
+	}
+	
+	.visual .swiper-container h2 {
+		font-size: 240%;
+		line-height: 1.2em;
+	}
+	.visual .swiper-container h3 {
+		font-size: 100%;
+		line-height: 1.5em;
+		letter-spacing: 0.03em;
+	}
+
+}
